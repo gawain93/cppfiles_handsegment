@@ -1,0 +1,8 @@
+prefix=/home/dhri-dz/catkin_ws/devel
+
+Name: boundtracking
+Description: Description of boundtracking
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dhri-dz/catkin_ws/devel/lib 
+Requires: 

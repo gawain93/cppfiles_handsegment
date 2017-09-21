@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -Wno-deprecated    -shared -Wl,-soname,libcsgpulib.so -o /home/dhri-dz/catkin_ws/devel/lib/libcsgpulib.so CMakeFiles/csgpulib.dir/src/./csgpulib_generated_csgpu.cu.o /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

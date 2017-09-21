@@ -1,0 +1,8 @@
+prefix=/home/dhri-dz/catkin_ws/devel
+
+Name: fill_holes
+Description: Description of fill_holes
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dhri-dz/catkin_ws/devel/lib 
+Requires: 

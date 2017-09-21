@@ -1,0 +1,8 @@
+prefix=/home/dhri-dz/catkin_ws/devel
+
+Name: save_pc
+Description: Description of save_pc
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dhri-dz/catkin_ws/devel/lib 
+Requires: 
